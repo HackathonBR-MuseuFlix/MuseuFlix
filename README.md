@@ -1,7 +1,7 @@
 # 🔶 MuseuFlix
 ## *Acervos Culturais e conteúdos prontos para o Ensino*
-*Prepare suas aulas na palma onde estiver*
-Ferramenta indispensável para professors de Artes e História ou para amantes da Cultura
+*Prepare suas aulas onde estiver, na palma da sua mão*<br />
+Ferramenta indispensável para professores de Artes e História ou para amantes da Cultura que querem compartilhar seu conhecimento
 
 ## 🐱‍🏍 Hackathon Abre-te Código
 Abre-te Código é um programa que reúne instituições culturais - galerias, bibliotecas, arquivos e museus - a mentes criativas e entusiastas da tecnologia, para realizar colaborações e inovações a partir de dados culturais abertos.
