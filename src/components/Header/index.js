@@ -1,5 +1,6 @@
 import React from 'react';
-import {Navbar, NavDropdown, Nav, Image} from 'react-bootstrap'
+import {Navbar, NavDropdown, Nav, Image} from 'react-bootstrap';
+import {Link} from 'react-router-dom'; 
 
 import imgLogo from '../../assets/img/logo.png'
 
@@ -21,9 +22,9 @@ function Header() {
       </NavDropdown>
     </Nav>
     <Nav className="ml-auto">
-      <Nav.Link href="#deets" style={{paddingRight:25}}>Home</Nav.Link>
-      <Nav.Link eventKey={2} href="#memes" style={{paddingRight:25}}>Catálogo</Nav.Link>
-      <Nav.Link eventKey={2} href="#memes" style={{paddingRight:25}}>Planos de Aula</Nav.Link>
+      <Nav.Link href="/"  style={{paddingRight:25}}>Home</Nav.Link>
+      <Nav.Link eventKey={2} href="/catalog" style={{paddingRight:25}}>Catálogo</Nav.Link>
+      <Nav.Link eventKey={2} href="/lessonplan" style={{paddingRight:25}}>Planos de Aula</Nav.Link>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
